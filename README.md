@@ -35,3 +35,17 @@ Opdatér `index.html` i repositoryet og commit ændringen. GitHub Pages offentli
 ## Teknologi
 
 Ren HTML, CSS, SVG, Canvas og JavaScript. Ingen buildproces.
+
+
+## Undervisningsforløb
+
+- **Hvordan fungerer den?** Ensretter, mellemkreds, inverter og samlet system.
+- **Hvordan reguleres den?** V/f-regulering og slipkompensering.
+- **Harmoniske:** Planlagt fremtidigt undervisningsafsnit.
+
+V/f-fanen viser en forenklet principmodel, ikke en motorregulator eller FOC.
+
+
+## Version 10
+- Layoutrettelser i V/f-diagrammet og modulation-menuen.
+- Ny introduktionsfane: FOC og SVPWM (uden avanceret matematik).
