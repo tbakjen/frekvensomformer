@@ -49,3 +49,12 @@ V/f-fanen viser en forenklet principmodel, ikke en motorregulator eller FOC.
 ## Version 10
 - Layoutrettelser i V/f-diagrammet og modulation-menuen.
 - Ny introduktionsfane: FOC og SVPWM (uden avanceret matematik).
+
+
+## Version 11 – Harmoniske og elkvalitet
+
+Fire nye undervisningsfaner: introduktion til harmoniske, FFT og spektrum, THDᵤ/THDᵢ og net-/motorside. Graferne er principillustrationer; FFT-fanen er ikke en kvantitativ FFT-analyse.
+
+## Version 13 – THD og impedans
+
+THD-fanen viser R- eller R-L-belastning, frekvensafhængig impedans, strømmenes faseforskydning og både THDᵤ og THDᵢ. Grundtonen er markeret på spektrene.
