@@ -58,3 +58,5 @@ Fire nye undervisningsfaner: introduktion til harmoniske, FFT og spektrum, THD�
 ## Version 13 – THD og impedans
 
 THD-fanen viser R- eller R-L-belastning, frekvensafhængig impedans, strømmenes faseforskydning og både THDᵤ og THDᵢ. Grundtonen er markeret på spektrene.
+
+Version 18: Fjernet dubleret introduktionsfane fra harmoniske-navigationen.
